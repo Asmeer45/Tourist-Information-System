@@ -1,4 +1,11 @@
-# Tourist-Information-System
+# Tourist-Information-System <br>
+# Description<br>
+Developed using Java Servlets, JSP, and MySQL, this system is designed to enhance the travel experience for tourists. Key features include:
+
+🔍 QR Code Scanning: Tourists can scan QR codes at various landmarks to instantly receive detailed information, historical context, and multimedia content related to the location.
+
+💡 Seamless Integration: Utilizing the ZXing library for efficient QR code generation and scanning, ensuring a smooth and user-friendly experience.<br>
+
 ![Screenshot (384)](https://github.com/user-attachments/assets/66c82139-658b-459a-b68b-0849b0834e7d)
 
 ![Screenshot (385)](https://github.com/user-attachments/assets/ff5fe203-fb3b-4db0-9780-8cc723ab7863)
